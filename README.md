@@ -2,6 +2,8 @@
 
 A plugin to quickly save Slack messages into HTML file.
 
+See demo in this video: https://www.youtube.com/watch?v=UtD8yQiInn0 
+
 For development, follow this instruction to load the plugin to your Firefox in dev mode: https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Temporary_Installation_in_Firefox 
 
 **How to use**
