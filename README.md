@@ -15,3 +15,7 @@ For development, follow this instruction to load the plugin to your Firefox in d
 **Why no Chrome extension?**
 
 If you're using Chrome, build it for yourself. I don't use Chrome, but the code should work on Chrome as well, with no modification.
+
+---
+
+The Slack icon used in the extension is from [ShareIcon](https://www.shareicon.net/slack-social-107336) under CC BY 2.5 license.
