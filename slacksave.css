@@ -1,0 +1,7 @@
+#btn_save_messages.activated {
+    color: #E91E63 !important;
+}
+
+.__slack-save_marked, .__slack-save_marked .c-message {
+    background: #F0F4C3 !important;
+}

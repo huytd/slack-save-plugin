@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "Slack Save",
+    "version": "1.0",
+    "description": "Save slack messages on the fly",
+    "icons": {
+        "48": "icons/slack-48.png"
+    },
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://*.slack.com/*"],
+            "js": ["jquery.js", "slacksave.js"],
+            "css": ["slacksave.css"]
+        }
+    ],
+    "permissions": ["downloads"]
+}
